@@ -21,6 +21,7 @@ Discover new releases, revisit your favourites, keep track of what you're watchi
 
 For a complete walkthrough, watch the installation tutorial:
 
+https://www.youtube.com/watch?v=V3Cv400qEu4
 
 ---
 
