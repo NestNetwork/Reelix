@@ -1,6 +1,6 @@
-                                             Reelix — #1 Media Application
+                                                 Reelix — #1 Media Application
 
-                                           Watch Everything. All in One Place.
+                                               Watch Everything. All in One Place.
 
 Reelix is the ultimate media app for Android — Movies, TV-Shows, Live TV, Anime, Cartoons.
 
