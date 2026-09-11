@@ -1,39 +1,139 @@
-                                                 Reelix — #1 Media Application
+# 🎬 Reelix — All Your Entertainment in One Place
 
-                                               Watch Everything. All in One Place.
+<p align="center">
+  <strong>Movies • TV Shows • Anime • Cartoons • Live TV</strong>
+</p>
 
-Reelix is the ultimate media app for Android — Movies, TV-Shows, Live TV, Anime, Cartoons.
+<p align="center">
+  <strong>Watch Everything. All in One Place.</strong>
+</p>
 
-Features
+---
 
-🎬 No ads, Latest movies uploaded regularly.
+## 📱 About Reelix
 
-🎬	Movies	500,000+ movies on demand. Browse by genre, year, TMDb rating and more. 
+**Reelix** is an all-in-one media application built for Android, bringing movies, TV shows, anime, cartoons, and live TV together in one simple and easy-to-use app.
 
-📺	TV Shows	Every season of your favourite series, from classics to the latest releases.
+Discover new releases, revisit your favourites, keep track of what you're watching, and find your next show or movie without jumping between multiple apps.
 
-⛩️	Anime	Dedicated Anime section — TV series, movies, OVA, ONA and specials.
+---
 
-🔍	Smart Search	Search across all content types. Filter by genre, year, rating and more.
+## ✨ Features
 
-🔖	Watchlist & History	Track what you've watched, pick up where you left off, and plan what's next.
+### 🚫 Ad-Free Experience
 
---------------
+Enjoy a clean viewing experience without intrusive advertisements.
 
-Install Tutorial Video: https://www.youtube.com/watch?v=V3Cv400qEu4
+### 🎬 Movies
 
+Explore a huge on-demand movie library with content across a wide range of genres.
 
-How to Install:
+Browse and filter movies by:
 
-Reelix is a sideload-ready APK for Android. Follow these simple steps:
+* Genre
+* Release year
+* TMDb rating
+* Popularity
+* Latest releases
+* And more
 
-Step 1 — Downloader App 
+New content is added regularly.
 
-Open the Downloader app from your device's files folder
+### 📺 TV Shows
 
-Step 2 — When app is opened allow permissions. 
+Watch your favourite television series, from classic shows to newer releases.
 
- Enjoy
+Browse complete seasons and quickly continue from where you left off.
 
-Reelix offers premium quality streams, sit back and enjoy!
+### ⛩️ Anime
 
+A dedicated section for anime fans featuring:
+
+* Anime TV series
+* Movies
+* OVAs
+* ONAs
+* Specials
+
+### 📡 Live TV
+
+Access live television directly through Reelix alongside the rest of your entertainment.
+
+### 🔍 Smart Search
+
+Quickly search across multiple content categories from one place.
+
+Use filters including genre, year, rating, and other options to find exactly what you're looking for.
+
+### 🔖 Watchlist & Watch History
+
+Keep your entertainment organised.
+
+* Add movies and shows to your watchlist
+* Keep track of previously watched content
+* Continue watching where you left off
+* Save content you want to watch later
+
+---
+
+# 📥 Installation
+
+Reelix is distributed as a **sideload-ready Android APK**.
+
+### Step 1 — Download Reelix
+
+Download the Reelix APK to your Android device.
+
+### Step 2 — Open the APK
+
+Locate the downloaded APK using your device's **Files** or **Downloads** app and open it.
+
+If Android asks for permission to install apps from this source, enable the required permission.
+
+### Step 3 — Install
+
+Select **Install** and wait for the installation to complete.
+
+### Step 4 — Open Reelix
+
+Launch Reelix and grant any permissions required for the features you want to use.
+
+That's it — Reelix is ready to use. 🎉
+
+---
+
+## 🎥 Installation Tutorial
+
+For a complete walkthrough, watch the installation tutorial:
+
+https://www.youtube.com/watch?v=V3Cv400qEu4
+
+---
+
+## 📺 Supported Content
+
+| Content          | Supported |
+| ---------------- | :-------: |
+| 🎬 Movies        |     ✅     |
+| 📺 TV Shows      |     ✅     |
+| ⛩️ Anime         |     ✅     |
+| 🧸 Cartoons      |     ✅     |
+| 📡 Live TV       |     ✅     |
+| 🔍 Smart Search  |     ✅     |
+| 🔖 Watchlist     |     ✅     |
+| 🕒 Watch History |     ✅     |
+
+---
+
+## ⭐ Why Reelix?
+
+Instead of switching between multiple entertainment apps, **Reelix brings everything together into one streamlined Android experience.**
+
+**One app. One library. Endless entertainment.**
+
+---
+
+<p align="center">
+  <strong>🎬 Reelix</strong><br>
+  <em>Watch Everything. All in One Place.</em>
+</p>
