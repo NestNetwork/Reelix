@@ -8,8 +8,6 @@
   <strong>Watch Everything. All in One Place.</strong>
 </p>
 
-<img width="813" height="859" alt="image" src="https://github.com/user-attachments/assets/06c10e13-b24e-4215-95e6-a4ebb88fe1d4" />
-
 
 ---
 
