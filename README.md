@@ -141,7 +141,7 @@ Instead of switching between multiple entertainment apps, **Reelix brings everyt
 
 **One app. One library. Endless entertainment.**
 
-https://reelix.freedev.app/
+https://reelixapp.freedev.app/
 
 ---
 
